@@ -12,4 +12,6 @@ Composer
 Laravel Framework
 
 Conclusão
+
+
 Este projeto Laravel oferece uma maneira fácil e intuitiva de gerenciar a discografia da dupla caipira Tião Carreiro e Pardinho. Sinta-se à vontade para explorar as funcionalidades e adicionar novos recursos conforme necessário. Divirta-se! 🎵🤠
