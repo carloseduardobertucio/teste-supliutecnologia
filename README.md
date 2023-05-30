@@ -24,7 +24,7 @@ Siga as etapas abaixo para configurar e executar o projeto em seu ambiente:
 
 Clone o repositório do projeto:
 
-git clone git@github.com:carloseduardobertucio/teste_discografia.git
+git clone git@github.com:carloseduardobertucio/teste-supliutecnologia.git
 Acesse o diretório do projeto:
 
 cd teste_discografia
